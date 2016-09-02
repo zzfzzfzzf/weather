@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/com/zzf/weather/MainActivity.java=UTF-8
+encoding//src/com/zzf/weather/adapter/QueryCityAdapter.java=UTF-8
+encoding//src/com/zzf/weather/adapter/WeatherListAdapter.java=UTF-8
+encoding//src/com/zzf/weather/plugin/util/ConfigCache.java=UTF-8
